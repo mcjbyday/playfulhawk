@@ -1,0 +1,6 @@
+<apex:page sidebar="false" showHeader="false">
+    <h1>
+        hello worlt
+    </h1>
+    <apex:image id="sfdevnetworklogo" value="https://developer.salesforce.com/files/salesforce-developer-network-logo.png" alt="Logo for salesforce developer network"/>
+</apex:page>
